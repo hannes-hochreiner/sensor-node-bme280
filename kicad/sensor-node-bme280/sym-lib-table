@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name senor-node-bme280)(type Legacy)(uri /home/hannes/Repository/sensor-node-bme280/kicad/sensor-node-bme280/senor-node-bme280.lib)(options "")(descr ""))
+)
