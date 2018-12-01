@@ -1,3 +1,5 @@
+![kicad rendering of the sensor node bme280](pictures/sensor-node-bme280_rendering.png)
+
 # Sensor node BME280
 
 A breakout board for the sensor node core featuring the BME280.
